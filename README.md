@@ -44,6 +44,16 @@ make
 
 <p>The client sends the message "Hello, 42!" to the server by transmitting one bit at a time using signals.</p>
 
+## Real examples
+
+<p align="center">
+  <img src="minitalk1.png" alt="Libft Logo" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="minitalk2.png" alt="Libft Logo" style="max-width: 100%; height: auto;">
+</p>
+
 
 <h2 id="contact">Contact</h2>
 <p>For any questions, feedback, or issues, feel free to reach out:</p>
