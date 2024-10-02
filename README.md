@@ -3,6 +3,7 @@
 <p align="center">
   <img src="minitalk.jpeg" alt="Libft Logo" style="max-width: 100%; height: auto;">
 </p>
+
 ## Project Overview
 
 <p>
