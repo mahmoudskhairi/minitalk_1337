@@ -1,6 +1,6 @@
 ## 42 minitalk project
 
-<p align="center">
+<p align="center"> 
   <img src="minitalk.jpeg" alt="Libft Logo" style="max-width: 100%; height: auto;">
 </p>
 
